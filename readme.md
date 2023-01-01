@@ -17,11 +17,11 @@ gem install rubygems
 2022/12/31 part-time job
 と書き込まれます．
 
-オプションの内容は以下の通り
--p:part-time_job
--s:school
--m:meeting
--c:club
--t:travel
+オプションの内容は以下の通り  
+-p:part-time_job  
+-s:school  
+-m:meeting  
+-c:club  
+-t:travel  
 
--h:オプションの表示
+-h:オプションの表示  
